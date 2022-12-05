@@ -1,0 +1,2 @@
+#!/bi/bash
+head -n iacta | tail -n +3
